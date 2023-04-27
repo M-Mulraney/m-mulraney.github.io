@@ -41,27 +41,7 @@ header.theme-light .container-btn a.btn:nth-child(2):focus,
 header.theme-light .container-btn a.btn:nth-child(2):hover,
 header.theme-light .container-btn a.btn:nth-child(2):active { background-color: var(--white-000) }
 
-footer.theme-light > h3 { color: var(--pink-700) }
-footer.theme-light > ul.footer-links li a:link,
-footer.theme-light > ul.footer-links li a:visited { text-decoration-color: var(--black-000) }
 
-footer.theme-light { background-color: var(--pink-100) }
-footer.theme-light > h2 { color: var(--pink-700) }
-footer.theme-light > ul.footer-links li a:focus,
-footer.theme-light > ul.footer-links li a:hover,
-footer.theme-light > ul.footer-links li a:active { text-decoration-color: transparent }
 
-footer.theme-light > ul.footer-links li a:link,
-footer.theme-light > ul.footer-links li a:visited { color: var(--pink-700) }
 
-footer.theme-light > ul.footer-links li a:focus,
-footer.theme-light > ul.footer-links li a:hover,
-footer.theme-light > ul.footer-links li a:active { color: var(--white-000) }
-
-footer.theme-light > ul.footer-icons li a:link i,
-footer.theme-light > ul.footer-icons li a:visited i { color: var(--gray-600) }
-
-footer.theme-light > ul.footer-icons li a:focus i,
-footer.theme-light > ul.footer-icons li a:hover i,
-footer.theme-light > ul.footer-icons li a:active i { color: var(--pink-700) }
 
