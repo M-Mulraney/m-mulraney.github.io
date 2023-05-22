@@ -42,6 +42,23 @@ header.theme-light .container-btn a.btn:nth-child(2):hover,
 header.theme-light .container-btn a.btn:nth-child(2):active { background-color: var(--white-000) }
 
 
+h1 {
+Font-Family: 'Istok Web', Sans-Serif;
+Font-Size: 48px;
+}
 
+h2 {
+Font-Family: 'Istok Web', Sans-Serif;
+Font-Size: 48px;
+}
 
+h2 {
+Font-Family: 'Average', Serif;
+Font-Size: 25px;
+}
+
+h3 {
+Font-Family: 'Average', Serif;
+Font-Size: 18px;
+}
 
